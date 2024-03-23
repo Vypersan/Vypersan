@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kitsune and I'm a programmer from The netherlands</h2>
+<h2 align="left">Hi 👋! My name is Kitsune and I'm a programmer from The Netherlands</h2>
 
 ###
 
