@@ -54,8 +54,11 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=kitsune-san&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+##  Currently listening to:
+<div align="left">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&user=li4dax88j3tc546e72igjany6" alt="Spotify recently played"  />
+</div>
