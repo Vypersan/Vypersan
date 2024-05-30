@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://cdn.yokaigroup.gg/albums/userpics/10001/3/f_o_x_by_aoiogataartist_dfxztdg-pre.jpg"  />
+  <img height="150" src="https://cdn.yokaigroup.gg/albums/userpics/10001/3/IMG_1638.jpg"  />
 </div>
 
 ###
