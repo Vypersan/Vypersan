@@ -4,10 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"/>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
 
 ###
 
@@ -17,21 +13,10 @@
 
 ###
 
-<h1 align="center">hey there, My name is kitsune and welcome to my github!</h1>
+<h1 align="center">Welcome to my page.</h1>
 
 ###
 
-<h3 align="left">🦊  About Me</h3>
-
-###
-
-<p align="left">- 21 years old.<br><br>- Software developer<br><br>- Loves photography and nature! <br><br></p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="Python Logo"  />
