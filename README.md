@@ -3,7 +3,7 @@
 </div>
 
 # Introduction:
-Software developer aimed to create tools, tech and programs that are lightweight, effective and easy to use.
+Software developer who aims to create tools, tech and programs that are lightweight, effective and easy to use.
 
 # PROJECT GENESIS
 You can find PROJECT GENESIS [HERE](https://github.com/Kitsune-San/PROJECT_GENESIS)
