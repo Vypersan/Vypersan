@@ -74,7 +74,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vypersan/vypersan/output/snake.svg" alt="Snake animation" />
 
 ###
 
