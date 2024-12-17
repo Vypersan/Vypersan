@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vypersan&label=Profile%20views&color=0e75b6&style=flat" alt="vypersan" /> </p>
 
-<p align="left"> <a href="https://x.com/vypersan" target="blank"><img src="https://img.shields.io/twitter/follow/vypersan?logo=twitter&style=for-the-badge" alt="vypersan" /></a> </p>
 
 - 🔭 I’m currently working on **GOLDEN OX**
 
