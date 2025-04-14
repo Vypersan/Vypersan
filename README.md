@@ -47,26 +47,6 @@
 
 ###
 
-<h3 align="left">SOCIALS</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.twitch.tv/vypersan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Vyper-San" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://dsc.gg/vypersan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://x.comVyperSan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
 
 <h3 align="left">STATS</h3>
 
@@ -81,17 +61,5 @@
 
 <br clear="both">
 
-
-###
-
-<h3 align="left">WHAT I LISTEN TO:</h3>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/li4dax88j3tc546e72igjany6">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=li4dax88j3tc546e72igjany6&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
