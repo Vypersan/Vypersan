@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">PROJECTS:</h3>
+<h3 align="left">BEST PROJECTS:</h3>
 <ul>
   <li>PROJECT HAKAI: https://github.com/Vypersan/project-hakai</li>
 </ul>
