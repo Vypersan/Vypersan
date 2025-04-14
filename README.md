@@ -8,6 +8,12 @@
 
 ###
 
+<h3 align="left">PROJECTS:</h3>
+<ul>
+  <li>[PROJECT HAKAI](https://github.com/vypersan/project-hakai</li>
+</ul>
+###
+
 <h3 align="left">SKILLSET:</h3>
 
 ###
