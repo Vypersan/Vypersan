@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/72793345?s=400&u=259219aabcf0cf39720eabd001a60e7fbf39c122&v=4"  />
+  <img height="200" src="https://avatars.githubusercontent.com/u/72793345?s=400&u=08a08340df297fcfd87dd0d2d98d25a9389c20d1&v=4"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">BEST PROJECTS:</h3>
+<h3 align="left">BEST PROJECT:</h3>
 <ul>
   <li>PROJECT HAKAI: https://github.com/Vypersan/project-hakai</li>
 </ul>
