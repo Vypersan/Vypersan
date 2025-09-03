@@ -1,65 +1,35 @@
 <div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/72793345?s=400&u=11301288cc00d445d8c3c34086c7653caaf1637b&v=4"  />
+  <img height="300" src="https://avatars.githubusercontent.com/u/72793345?s=400&u=11301288cc00d445d8c3c34086c7653caaf1637b&v=4"  />
+  <p>~ Move with elegance, strike with precision. ~ </p>
 </div>
 
-###
+##
 
-<h2 align="left">Welcome to my profile.</h2>
+### About:
+- Freelance software developer. (Open for work. More info below)
+- [Critical Ops](https://criticalopsgame.com) community moderator.
+- Likes: Cyberpunk, death metal, heavy metal, tearout dubstep.
+### Current WIP projects:
+- [PROJECT HAKAI](https://github.com/VyperSan/project-hakai)
+- Critical Ops Golden OX: Season 2
+- Unofficial c-ops bot
+- Foxnet (No repo yet)
 
-###
+### Finished projects:
+- [Critical ops Golden OX: Season 1](https://gox.yokaigroup.gg)
+- [cops.py](https://github.com/Vypersan/cops.py)
+- [Kitsune browser legacy](https://github.com/Vypersan/Kitsune-browser)
+- [Vandals bot](https://github.com/Vypersan/Vandals-Bot)
 
-<h3 align="left">BEST PROJECT:</h3>
-<ul>
-  <li>PROJECT HAKAI: https://github.com/Vypersan/project-hakai</li>
-</ul>
+### Commissions:
+Currently **OPEN** for these categories:
+- Discord chatbots
+- Tournament applications
+- Backend REST API
 
-###
+if your project does not fall in any of these categories, you are still welcome to contact me to discuss any possibilities. Price varies depending on complexity / time spent.
 
-<h3 align="left">SKILLSET:</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
-</div>
-
-###
-
-
-<h3 align="left">STATS</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vypersan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vypersan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-###
+### Contact:
+- Discord: @vypersan
+- Twitter: @VyperSan
+- [EMAIL](mailto:vyper@yokaigroup.gg?subject=Comission)
