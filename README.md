@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://avatars.githubusercontent.com/u/72793345?s=400&u=100c2f7eb03c1489cd264e0bf686f80b80450952&v=4"  />
+  <img height="300" src="https://avatars.githubusercontent.com/u/72793345?s=400&u=a0e9e2705b0f94572c59c10b31fd09e76ddc2a2d&v=4"  />
   <p>~ Move with elegance, strike with precision. ~ </p>
 </div>
 
