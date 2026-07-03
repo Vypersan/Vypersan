@@ -16,7 +16,7 @@
 - Foxnet (No repo yet)
 
 ### Finished projects:
-- [Critical ops Golden OX: Season 1](https://gox.yokaigroup.gg) [COMPLETED, WEBSITE OFFLINE]
+- [Critical ops Golden OX: Season 1](https://gox.yokaigroup.gg) (COMPLETED, WEBSITE OFFLINE)
 - [cops.py](https://github.com/Vypersan/cops.py)
 - [Kitsune browser legacy](https://github.com/Vypersan/Kitsune-browser)
 - [Vandals bot](https://github.com/Vypersan/Vandals-Bot)
