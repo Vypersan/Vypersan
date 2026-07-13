@@ -11,9 +11,7 @@
 - Likes: Cyberpunk, death metal, heavy metal, tearout dubstep.
 ### Current WIP projects:
 - [PROJECT HAKAI](https://github.com/VyperSan/project-hakai)
-- Critical Ops Golden OX: Season 2
 - [Unofficial c-ops bot](https://yokaigroup.gg/projects/unofficial_cops_bot)
-- Foxnet (No repo yet)
 
 ### Finished projects:
 - [Critical ops Golden OX: Season 1](https://gox.yokaigroup.gg) (COMPLETED, WEBSITE OFFLINE)
